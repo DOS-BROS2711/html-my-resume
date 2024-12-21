@@ -1,0 +1,38 @@
+html{
+    background-color:F2EED7;
+
+    }
+h1{
+    color:626F47;
+  } 
+h2{
+    color:798645 ;
+    }  
+h3{
+    color:798645 ;
+   }
+p{
+    color:557C56 ;
+  }
+li{
+    color:557C56 ;
+   }
+ 
+img{
+    height: 200px;
+      width: 200px;
+      border: solid olive;
+      border-width: 5px;
+      padding: 5px;
+      display: inline;
+  
+  
+    }
+a{color:33372C;}
+p{
+  border-radius: 5px;
+  padding: 10px;
+  inline-size: 900px;
+  overflow-wrap: break-word;
+}
+img
